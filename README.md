@@ -1,2 +1,6 @@
-# photogrammetry_plates
-database of photogrammetry plate measurements
+# jig and wedge equipment
+databases of measurements of alignment equipment, including
+  jigs
+  installation plates
+  photogrammetry plates
+  photogrammetry bars
