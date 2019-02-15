@@ -1,2 +1,2 @@
 # jig and wedge equipment
-databases of measurements of alignment jigs
+database of measurements of alignment jigs
